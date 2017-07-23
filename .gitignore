@@ -1,3 +1,5 @@
 *.*
+ClientEditor/
+testing stuff/
 !*.java
 !.gitignore
